@@ -20,8 +20,8 @@ My SKILLS 💪 will help your team to be succeed! 🤜🤛
 [Check my profile on the LinkedIn](https://www.linkedin.com/in/eugeneosadchiy/)
 
 ## Skills I have:
-- **Backend:** Elixir (Phoenix), Ruby (Ruby on Rails), NodeJS (AWS Lambda), TypeScript
-- **Frontend:** React.js, Ember.js
+- **Backend:** Elixir (Phoenix), Ruby (Ruby on Rails), Node.js (Express.js), TypeScript
+- **Frontend:** React.js, Ember.js, HTML5, CSS3 (for sure 😉)
 - **Containerization:** Docker, docker-compose
 - **Orchestration:** HashiCorp Nomad, Kubernetes
 - **Cloud providers:** AWS, Digital Ocean
