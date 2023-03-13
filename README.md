@@ -28,4 +28,4 @@ My SKILLS 💪 will help your team to be succeed! 🤜🤛
 - **Infrastructure as a code:** Terraform
 - **Monitoring:** SumoLogic, DataDog, Bugsnag
 - **CI/CD**: GitHub Actions, GitLab CI, CircleCI, BuildKite
-- **On-Call:** PagerDuty
+- **On-Call:** PagerDuty 📟
